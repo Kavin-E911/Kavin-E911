@@ -1,32 +1,28 @@
-# Kavin-E911
+# 🚀 Welcome to My Profile!
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Coverage Status](https://img.shields.io/badge/coverage-80%25-brightgreen.svg)
-![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
+### 🛠️ Tech Stack
+![Tech Stack](https://img.shields.io/badge/Java-Java%20-blue) ![Python](https://img.shields.io/badge/Python-3.8%20-yellow) ![C++](https://img.shields.io/badge/C++-11%20-red)
 
-## GitHub Statistics
-- **Total Repositories**: [Insert total repositories here]
-- **Total Stars**: [Insert total stars here]
-- **Forks**: [Insert total forks here]
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavin-E911&show_icons=true&theme=radical)
 
-## Featured Projects
-### Project 1
-- Description of Project 1
-- [Link to Project 1](https://github.com/Kavin-E911/project1)
+### 🏆 Competitive Programming Platforms
+- [LeetCode](https://leetcode.com/Kavin-E911)
+- [CodeChef](https://www.codechef.com/users/kavin_e911)
+- [HackerRank](https://www.hackerrank.com/Kavin-E911)
 
-### Project 2
-- Description of Project 2
-- [Link to Project 2](https://github.com/Kavin-E911/project2)
-
-### Project 3
-- Description of Project 3
-- [Link to Project 3](https://github.com/Kavin-E911/project3)
-
-## Enhanced Visual Styling
-The following can be included for better styling:
-- **Bold**, _Italic_, and `Code formatting`
-- Lists:  
-  - Item 1  
-  - Item 2  
-
-**Note**: Ensure to replace placeholder text with actual data and links.
+### 🌟 Featured Projects
+- **Project 1**: Description of the project and its features.
+- **Project 2**: Description of the project and its features.
+  
+### 🎯 Current Focus
+- Developing new skills in AI and Machine Learning.
+  
+### 📚 Learning Resources
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Codecademy](https://www.codecademy.com/)
+  
+### 📫 Contact Me
+Feel free to reach out via:
+- [LinkedIn](https://www.linkedin.com/in/kavin-e911)
+- [Email](mailto:kavin.e911@example.com)
