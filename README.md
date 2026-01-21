@@ -1,18 +1,22 @@
+<!-- Elegant Greeting -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Kavin-E911/Kavin-E911/main/assets/wave.gif" width="34px" /> 
-  Hey, I'm <span style="color:#00D9FF;">Kavin E</span>!
+  <img src="https://raw.githubusercontent.com/Kavin-E911/Kavin-E911/main/assets/wave.gif" width="34px"/> 
+  Hey, I'm <strong>Kavin E</strong>
 </h1>
 
+<!-- Animated Typing with Glow Effect -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3800&pause=900&color=00D9FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3800&pause=900&color=00D9FF&center=true&vCenter=true&width=540&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast"
     alt="Typing Animation"
   />
 </p>
 
+<!-- Subtle Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:6A5ACD&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:1E90FF&height=3" />
 </p>
+
 
 
 ## 🎯 About Me
