@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Kavin-E911/Kavin-E911/main/assets/wave.gif" width="30px"> Hey, I'm Kavin E!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Problem+Solver;Java+Python+C+Expert;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" />
 </div>
 
 ---
@@ -85,23 +85,12 @@ Full-Stack Web Development
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavin-E911&theme=tokyonight)](https://github.com/Kavin-E911)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-E911&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/Kavin-E911)
 
 </div>
 
 ---
 
-## 🏆 LeetCode Progress
-
-<div align="center">
-
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/api/itskavin_e?theme=dark)
-
-</div>
-
----
 
 ## 📫 Let's Connect & Collaborate!
 
