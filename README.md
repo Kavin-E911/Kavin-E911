@@ -1,10 +1,19 @@
-# <img src="https://raw.githubusercontent.com/Kavin-E911/Kavin-E911/main/assets/wave.gif" width="30px"> Hey, I'm Kavin E!
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Kavin-E911/Kavin-E911/main/assets/wave.gif" width="34px" /> 
+  Hey, I'm <span style="color:#00D9FF;">Kavin E</span>!
+</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" />
-</div>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3800&pause=900&color=00D9FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" 
+    alt="Typing Animation"
+  />
+</p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:6A5ACD&height=2" />
+</p>
+
 
 ## 🎯 About Me
 
